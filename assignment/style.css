@@ -1,0 +1,30 @@
+.container {
+  width: 900px;
+  height: 800px;
+
+  margin: 70px auto;
+  border: 3px solid black;
+}
+
+.container .myName {
+  font-family: open Sans;
+  font-size: 1.3rem;
+  text-align: center;
+  background-color: red;
+}
+
+.carholder img {
+  width: 100%;
+  display: flex;
+  margin-top: auto;
+  justify-content: center;
+  align-items: center;
+}
+
+.container .drove {
+  background-color: coral;
+  font-family: open sans;
+  text-align: center;
+  margin-top: 90px;
+  font-size: 1.4rem;
+}
